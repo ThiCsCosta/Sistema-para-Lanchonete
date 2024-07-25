@@ -24,4 +24,4 @@ Bem-vindo ao Sistema de Lanchonete! Este projeto foi desenvolvido para gerenciar
 1. **Clone o Repositório**
 
    ```bash
-   git clone https://github.com/seu-usuario/sistema-lanchonete.git
+   git clone https://github.com/ThiCsCosta/Sistema-para-Lanchonete.git
